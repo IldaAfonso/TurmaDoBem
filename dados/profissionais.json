@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "nome": "Paulo de Souza",
+        "telefone": "21999999999",
+        "cidade": "Rio de Janeiro",
+        "tipo": "Psiquiatra"
+    },
+    {
+        "id": 3,
+        "nome": "Maria Aparecida",
+        "telefone": "11999800999",
+        "cidade": "S\u00e3o Paulo",
+        "tipo": "Psic\u00f3loga"
+    }
+]
